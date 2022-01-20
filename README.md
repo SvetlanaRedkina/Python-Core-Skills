@@ -1,2 +1,2 @@
 # Python_101
-Python Basics
+Intro to Python.
