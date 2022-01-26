@@ -1,2 +1,29 @@
+
+![Logo](C:\Users\sveta\Desktop\Python for GitHub\Python Notebooks.png)
+
+
+
+
 # Python_101
-Intro to Python.
+
+This project covers the fundamental concepts in Python.
+## Authors
+
+- [@svetlana_redkina](https://github.com/SvetlanaRedkina)
+
+
+## Notebooks
+
+- The code is written in Jupyter Notebooks
+- Each Notebook is a concise narrative of one of the following topics:
+    * Lists. Tuples. Dictionaries. Sets
+    * Conditions. Loops
+    * Functions
+    * Objects. Classes
+    * Writing. Reading. Copying files
+    * NumPy
+- These notebooks are for you, if you want to learn Python foundations 
+
+## Honest feedback
+
+If you have any feedback, please reach out to me at sveta.hq@gmail.com
