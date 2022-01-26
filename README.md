@@ -5,7 +5,7 @@
 
 # Python_101
   
-This project covers the fundamental concepts in Python.
+This project covers the fundamental concepts in Python
 ## Authors
 
 - [@svetlana_redkina](https://github.com/SvetlanaRedkina)
