@@ -1,8 +1,3 @@
-<p>
-    <img src="C:\Users\sveta\Desktop\Python for GitHub\Python Notebooks.png" width="220" height="240" />
-</p>
-
-
 # Python_101
 
 This project covers the fundamental concepts in Python.
