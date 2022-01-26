@@ -8,7 +8,7 @@
 This project covers the fundamental concepts in Python
 ## Authors
 
-- [@svetlana_redkina](https://github.com/SvetlanaRedkina)
+- [@SvetlanaRedkina](https://github.com/SvetlanaRedkina)
 
 
 ## Notebooks
