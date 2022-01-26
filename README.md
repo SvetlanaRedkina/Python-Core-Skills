@@ -1,3 +1,5 @@
+![Logo](readme-logo.png)
+
 # Python_101
 
 This project covers the fundamental concepts in Python.
