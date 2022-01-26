@@ -1,7 +1,10 @@
-![Logo](readme-logo.png)
+<img
+  align="right"
+  src="readme-logo1.png"
+  style="width: 230px; height: 230px">
 
 # Python_101
-
+  
 This project covers the fundamental concepts in Python.
 ## Authors
 
