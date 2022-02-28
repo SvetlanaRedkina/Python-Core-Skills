@@ -7,24 +7,26 @@
   
 Must know in Python
 
-## Authors
 
-- [@SvetlanaRedkina](https://github.com/SvetlanaRedkina)
 
 
 ## Notebooks
 
-- The code is written in Jupyter Notebooks
-
 - These notebooks are helpful if you want to have a refresher on the following topics:
+    
     * Lists. Tuples. Dictionaries. Sets
     * Conditions. Loops
     * Functions
     * Objects. Classes
     * Writing. Reading. Copying files
     * NumPy
-- These notebooks are for anyone who wants to learn valuable Python foundations.
+    
 
-## Honest feedback
+Authors
 
-If you have any feedback, please reach out to me at sveta.hq@gmail.com
+- [@SvetlanaRedkina](https://github.com/SvetlanaRedkina)
+
+
+Honest feedback
+
+- If you have any feedback, please reach out to me at sveta.hq@gmail.com
