@@ -5,7 +5,7 @@
 
 # Python Core Skills
   
-Must have Python skills.
+Must know in Python
 
 ## Authors
 
@@ -15,7 +15,8 @@ Must have Python skills.
 ## Notebooks
 
 - The code is written in Jupyter Notebooks
-- Each Notebook is a concise narrative of one of the following topics:
+
+- These notebooks are helpful if you want to have a refresher on the following topics:
     * Lists. Tuples. Dictionaries. Sets
     * Conditions. Loops
     * Functions
