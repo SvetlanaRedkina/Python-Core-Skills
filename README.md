@@ -5,7 +5,8 @@
 
 # Python Core Skills
   
-This project covers the fundamental concepts in Python
+Must have Python skills.
+
 ## Authors
 
 - [@SvetlanaRedkina](https://github.com/SvetlanaRedkina)
@@ -21,7 +22,7 @@ This project covers the fundamental concepts in Python
     * Objects. Classes
     * Writing. Reading. Copying files
     * NumPy
-- These notebooks are for you, if you want to learn Python foundations 
+- These notebooks are for anyone who wants to learn valuable Python foundations.
 
 ## Honest feedback
 
