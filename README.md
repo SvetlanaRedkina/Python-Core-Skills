@@ -3,23 +3,18 @@
   src="readme-logo1.png"
   style="width: 230px; height: 230px">
 
-# Python Core Skills
+# *Python Core Skills*
   
 Must know in Python
 
-
-
-
-## Notebooks
-
 - These notebooks are helpful if you want to have a refresher on the following topics:
     
-    * Lists. Tuples. Dictionaries. Sets
-    * Conditions. Loops
-    * Functions
-    * Objects. Classes
-    * Writing. Reading. Copying files
-    * NumPy
+    * *Lists. Tuples. Dictionaries. Sets*
+    * *Conditions. Loops*
+    * *Functions*
+    * *Objects. Classes*
+    * *Writing. Reading. Copying files*
+    * *NumPy*
     
 
 Authors
