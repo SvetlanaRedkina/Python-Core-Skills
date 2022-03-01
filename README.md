@@ -7,7 +7,7 @@
   
 Must know in Python
 
-- These notebooks are helpful if you want to have a refresher on the following topics:
+- These notebooks are helpful if you want to strengthen your knowledge on the following topics:
     
     * *Lists. Tuples. Dictionaries. Sets*
     * *Conditions. Loops*
